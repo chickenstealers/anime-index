@@ -6,14 +6,14 @@
           <div class="tags has-addons">
             <a
               class="tag is-dark"
-              href="https://github.com/Aicirou/goindex-theme-acrou"
-            >goindex-theme-acrou</a>
-            <span class="tag is-light">
-              MIT &nbsp;
+              href="https://www.facebook.com/animeshon.id"
+            >Anime Cracks</a>
+            <a href="https://www.facebook.com/animeshon.id"><span class="tag is-light">
               <span class="icon">
-                <i class="fa fa-github"></i>
+                <i class="fa fa-facebook"></i>
               </span>
-            </span>
+              &nbsp;page
+            </span></a>
           </div>
         </div>
       </div>

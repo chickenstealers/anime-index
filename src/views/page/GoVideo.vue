@@ -43,7 +43,7 @@
       </header>
       <div class="card-content">
         <div class="content">
-          <div class="field">
+          <!-- <div class="field">
             <label class="label">
               {{ $t("page.video.link") }}
               <a class="button is-text index-button-copy" @click="copy">
@@ -53,7 +53,7 @@
             <div class="control">
               <input class="input" type="text" :value="videoUrl" />
             </div>
-          </div>
+          </div> -->
           <div class="columns is-mobile is-multiline has-text-centered">
             <div
               class="column"
